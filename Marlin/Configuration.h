@@ -473,7 +473,7 @@
 #define HEATER_5_MAXTEMP 275
 #define HEATER_6_MAXTEMP 275
 #define HEATER_7_MAXTEMP 275
-#define BED_MAXTEMP      95
+#define BED_MAXTEMP      125
 
 //===========================================================================
 //============================= PID Settings ================================
